@@ -91,9 +91,3 @@ O conjunto de teste está composto por 8 imagens:
 ## 📌 Objetivo
 
 Avaliar e comparar o desempenho de filtros de imagem aplicados a arquivos JPEG nas versões **sequencial** e **paralela**.
-
----
-
-## 📄 Licença
-
-Este projeto está licenciado sob a [MIT License](LICENSE).
