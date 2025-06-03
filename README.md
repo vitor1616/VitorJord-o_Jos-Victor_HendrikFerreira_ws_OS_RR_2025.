@@ -29,7 +29,7 @@ Este repositório contém implementações de dois filtros de imagem (grayscale 
 ## ⚙️ Pré-requisitos
 
 - Compilador C (`gcc`)
-- Biblioteca libjpeg (`libjpeg-dev` no Linux)
+- Biblioteca libjpeg (`libjpeg-dev`)
 - Python 3
 - Pacotes Python:
   ```bash
