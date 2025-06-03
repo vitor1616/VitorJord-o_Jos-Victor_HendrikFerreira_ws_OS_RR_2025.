@@ -8,6 +8,7 @@ Este repositório contém implementações de dois filtros de imagem (grayscale 
 
 ```
 .
+├── Seminário_SO.pdf          # Orientação deste trabalho
 ├── grayscale_seq.c           # Filtro grayscale sequencial
 ├── grayscale_par.c           # Filtro grayscale paralelo
 ├── inversor_seq.c            # Filtro inversor sequencial
@@ -43,12 +44,11 @@ Compile os programas C usando o `gcc`:
 
 ```bash
 gcc grayscale_seq.c -o grayscale_seq.exe -ljpeg
-gcc grayscale_par.c -o grayscale_par.exe -ljpeg -fopenmp
+gcc grayscale_par.c -o grayscale_par.exe -ljpeg
 gcc inversor_seq.c -o inversor_seq.exe -ljpeg
-gcc inversor_par.c -o inversor_par.exe -ljpeg -fopenmp
+gcc inversor_par.c -o inversor_par.exe -ljpeg
 ```
 
-> ⚠️ Use `-fopenmp` apenas nas versões paralelas.
 
 ---
 
@@ -90,7 +90,7 @@ O conjunto de teste está composto por 8 imagens:
 
 ## 📌 Objetivo
 
-Avaliar e comparar o desempenho de filtros de imagem aplicados a arquivos JPEG nas versões **sequencial** e **paralela**, utilizando `OpenMP` nas versões paralelas.
+Avaliar e comparar o desempenho de filtros de imagem aplicados a arquivos JPEG nas versões **sequencial** e **paralela**.
 
 ---
 
