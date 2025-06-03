@@ -8,7 +8,7 @@ Este repositório contém implementações de dois filtros de imagem (grayscale 
 
 ```
 .
-├── Seminário_SO.pdf          # Orientação deste trabalho
+├── SO_SLide_compressed.pdf   # Slide para apresentação
 ├── grayscale_seq.c           # Filtro grayscale sequencial
 ├── grayscale_par.c           # Filtro grayscale paralelo
 ├── inversor_seq.c            # Filtro inversor sequencial
