@@ -6,12 +6,12 @@ def ler_resultados(nome_arquivo):
     tempos_par = []
 
     with open(nome_arquivo, 'r') as f:
-        linhas = f.readlines()[1:]  # pula o cabeçalho
+        linhas = f.readlines()[1:] 
         for linha in linhas:
             partes = linha.strip().split()
-            imagem = partes[0][:-1]  # remove ":"
-            tempo_seq = float(partes[3][:-1])  # remove "s"
-            tempo_par = float(partes[7][:-1])  # remove "s"
+            imagem = partes[0][:-1]  
+            tempo_seq = float(partes[3][:-1])  
+            tempo_par = float(partes[7][:-1])  
             imagens.append(imagem)
             tempos_seq.append(tempo_seq)
             tempos_par.append(tempo_par)
