@@ -1,0 +1,9 @@
+Resultados para filtro: INVERSOR
+1k.jpg: SEQ = 0.027198s | PAR = 0.025334s
+2k.jpg: SEQ = 0.047318s | PAR = 0.042619s
+3k.jpg: SEQ = 0.078482s | PAR = 0.066693s
+4k.jpg: SEQ = 0.117581s | PAR = 0.099924s
+5k.jpg: SEQ = 0.172120s | PAR = 0.144610s
+6k.jpg: SEQ = 0.237696s | PAR = 0.194187s
+7k.jpg: SEQ = 0.304098s | PAR = 0.254703s
+8k.jpg: SEQ = 0.474552s | PAR = 0.386074s

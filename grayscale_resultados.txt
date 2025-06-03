@@ -1,0 +1,9 @@
+Resultados para filtro: GRAYSCALE
+1k.jpg: SEQ = 0.026721s | PAR = 0.025305s
+2k.jpg: SEQ = 0.043675s | PAR = 0.042157s
+3k.jpg: SEQ = 0.069826s | PAR = 0.066702s
+4k.jpg: SEQ = 0.101339s | PAR = 0.098166s
+5k.jpg: SEQ = 0.147592s | PAR = 0.144282s
+6k.jpg: SEQ = 0.198717s | PAR = 0.201158s
+7k.jpg: SEQ = 0.257349s | PAR = 0.252840s
+8k.jpg: SEQ = 0.412744s | PAR = 0.415653s
